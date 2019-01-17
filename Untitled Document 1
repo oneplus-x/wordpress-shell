@@ -1,0 +1,7 @@
+Shell Access :
+http://www.example.com/wordpress/wp-content/uploads/lo.php
+
+lo.php
+<?php
+phpinfo();
+?>
